@@ -1,2 +1,2 @@
 def handler(event, context):
-    return 'PEPE y Juan'
+    return 'PEPE y Juan y Manu'
